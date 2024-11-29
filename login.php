@@ -12,10 +12,17 @@
     <title>One Music - Modern Music HTML5 Template</title>
 
     <!-- Favicon -->
+<<<<<<< HEAD
     <link rel="icon" href="img/core-img/favicon.ico">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
+=======
+    <link rel="icon" href="./recursos/recursos_panel/img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./recursos/recursos_panel/style.css">
+>>>>>>> 0740315 (Primer commit)
 
 </head>
 
@@ -40,7 +47,11 @@
                     <nav class="classy-navbar justify-content-between" id="oneMusicNav">
 
                         <!-- Nav brand -->
+<<<<<<< HEAD
                         <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+=======
+                        <a href="index.html" class="nav-brand"><img src="./recursos/recursos_panel/img/core-img/logo.png" alt=""></a>
+>>>>>>> 0740315 (Primer commit)
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -58,7 +69,11 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
+<<<<<<< HEAD
                                     <li><a href="index.html">Home</a></li>
+=======
+                                    <li><a href="index.php">Home</a></li>
+>>>>>>> 0740315 (Primer commit)
                                     <li><a href="albums-store.html">Albums</a></li>
                                     <li><a href="#">Pages</a>
                                         <ul class="dropdown">
@@ -117,7 +132,11 @@
     <!-- ##### Header Area End ##### -->
 
     <!-- ##### Breadcumb Area Start ##### -->
+<<<<<<< HEAD
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/breadcumb3.jpg);">
+=======
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(./recursos/recursos_panel/img/bg-img/breadcumb3.jpg);">
+>>>>>>> 0740315 (Primer commit)
         <div class="bradcumbContent">
             <p>See what’s new</p>
             <h2>Login</h2>
@@ -137,6 +156,7 @@
                             <form action="#" method="post">
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email address</label>
+<<<<<<< HEAD
                                     <input type="email" class="form-control" id="exampleInputEmail1"
                                         aria-describedby="emailHelp" placeholder="Enter E-mail">
                                     <small id="emailHelp" class="form-text text-muted"><i
@@ -147,6 +167,14 @@
                                     <label for="exampleInputPassword1">Password</label>
                                     <input type="password" class="form-control" id="exampleInputPassword1"
                                         placeholder="Password">
+=======
+                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter E-mail">
+                                    <small id="emailHelp" class="form-text text-muted"><i class="fa fa-lock mr-2"></i>We'll never share your email with anyone else.</small>
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Password</label>
+                                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+>>>>>>> 0740315 (Primer commit)
                                 </div>
                                 <button type="submit" class="btn oneMusic-btn mt-30">Login</button>
                             </form>
@@ -164,6 +192,7 @@
             <div class="row d-flex flex-wrap align-items-center">
                 <div class="col-12 col-md-6">
                     <a href="#"><img src="img/core-img/logo.png" alt=""></a>
+<<<<<<< HEAD
                     <p class="copywrite-text"><a
                             href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;
@@ -171,6 +200,11 @@
                             template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
                                 href="https://colorlib.com" target="_blank">Colorlib</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+=======
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+>>>>>>> 0740315 (Primer commit)
                 </div>
 
                 <div class="col-12 col-md-6">
@@ -191,6 +225,7 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
+<<<<<<< HEAD
     <script src="./recursos/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
     <script src="js/bootstrap/popper.min.js"></script>
@@ -200,6 +235,17 @@
     <script src="js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+=======
+    <script src="./recursos/recursos_panel/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="./recursos/recursos_panel/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="./recursos/recursos_panel/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="./recursos/recursos_panel/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="./recursos/recursos_panel/js/active.js"></script>
+>>>>>>> 0740315 (Primer commit)
 </body>
 
 </html>
