@@ -47,11 +47,7 @@
                     <nav class="classy-navbar justify-content-between" id="oneMusicNav">
 
                         <!-- Nav brand -->
-<<<<<<< HEAD
                         <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
-=======
-                        <a href="index.html" class="nav-brand"><img src="./recursos/recursos_panel/img/core-img/logo.png" alt=""></a>
->>>>>>> 0740315 (Primer commit)
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
